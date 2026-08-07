@@ -1,0 +1,38 @@
+# Node
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.*
+
+# Build
+dist/
+build/
+
+# Coverage
+coverage/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Docker
+docker-data/
+
+# Misc
+*.swp
