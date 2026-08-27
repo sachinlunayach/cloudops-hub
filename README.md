@@ -9,7 +9,6 @@ Enterprise-grade Self-Service DevSecOps Platform built with:
 - Terraform
 - AWS
 - SonarQube
-- Trivy
 - Prometheus
 - Grafana
 
