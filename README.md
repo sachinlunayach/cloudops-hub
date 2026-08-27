@@ -2,7 +2,6 @@
 
 Enterprise-grade Self-Service DevSecOps Platform built with:
 
-- React
 - Node.js
 - Docker
 - Kubernetes
