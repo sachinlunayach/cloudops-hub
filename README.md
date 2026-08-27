@@ -2,7 +2,6 @@
 
 Enterprise-grade Self-Service DevSecOps Platform built with:
 
-- Node.js
 - Docker
 - Kubernetes
 - Jenkins
